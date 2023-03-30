@@ -1,2 +1,0 @@
-CREDITS to the Author:
-https://github.com/attreyabhatt/Space-Invaders-Pygame
